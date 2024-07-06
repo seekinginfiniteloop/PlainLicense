@@ -1,75 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://plainlicense.org/index.html</loc>
-        <lastmod>2024-07-05</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://plainlicense.org/index.html"/>
+         <loc>https://plainlicense.org/index.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://plainlicense.org/includes/abbreviations.html</loc>
-        <lastmod>2024-07-05</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://plainlicense.org/includes/abbreviations.html"/>
+         <loc>https://plainlicense.org/blog/index.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://plainlicense.org/licenses/PlainAGPLv3.html</loc>
-        <lastmod>2024-07-05</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://plainlicense.org/licenses/PlainAGPLv3.html"/>
+         <loc>https://plainlicense.org/licenses/copyleft/index.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://plainlicense.org/licenses/PlainApachev2.html</loc>
-        <lastmod>2024-07-05</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://plainlicense.org/licenses/PlainApachev2.html"/>
+         <loc>https://plainlicense.org/licenses/copyleft/PlainAGPLv3.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://plainlicense.org/licenses/PlainBSDv2.html</loc>
-        <lastmod>2024-07-05</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://plainlicense.org/licenses/PlainBSDv2.html"/>
+         <loc>https://plainlicense.org/licenses/copyleft/PlainGPLv2.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://plainlicense.org/licenses/PlainGPLv2.html</loc>
-        <lastmod>2024-07-05</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://plainlicense.org/licenses/PlainGPLv2.html"/>
+         <loc>https://plainlicense.org/licenses/copyleft/PlainGPLv3.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://plainlicense.org/licenses/PlainGPLv3.html</loc>
-        <lastmod>2024-07-05</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://plainlicense.org/licenses/PlainGPLv3.html"/>
+         <loc>https://plainlicense.org/licenses/copyleft/PlainMPLv2.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://plainlicense.org/licenses/PlainLGPLv2.html</loc>
-        <lastmod>2024-07-05</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://plainlicense.org/licenses/PlainLGPLv2.html"/>
+         <loc>https://plainlicense.org/licenses/permissive/index.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://plainlicense.org/licenses/PlainLGPLv3.html</loc>
-        <lastmod>2024-07-05</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://plainlicense.org/licenses/PlainLGPLv3.html"/>
+         <loc>https://plainlicense.org/licenses/permissive/PlainApachev2.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://plainlicense.org/licenses/PlainMIT.html</loc>
-        <lastmod>2024-07-05</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://plainlicense.org/licenses/PlainMIT.html"/>
+         <loc>https://plainlicense.org/licenses/permissive/PlainBSDv2.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://plainlicense.org/licenses/PlainMPLv2.html</loc>
-        <lastmod>2024-07-05</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://plainlicense.org/licenses/PlainMPLv2.html"/>
+         <loc>https://plainlicense.org/licenses/permissive/PlainLGPLv2.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://plainlicense.org/licenses/PlainUnlicense.html</loc>
-        <lastmod>2024-07-05</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://plainlicense.org/licenses/PlainUnlicense.html"/>
+         <loc>https://plainlicense.org/licenses/permissive/PlainLGPLv3.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://plainlicense.org/licenses/permissive/PlainMIT.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://plainlicense.org/licenses/public-domain/index.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://plainlicense.org/licenses/public-domain/PlainUnlicense.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://plainlicense.org/our-mission/index.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://plainlicense.org/our-mission/faq.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://plainlicense.org/our-mission/how-to-help/index.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://plainlicense.org/our-mission/how-to-help/code.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://plainlicense.org/our-mission/how-to-help/edit.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://plainlicense.org/our-mission/how-to-help/legalreview.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://plainlicense.org/our-mission/how-to-help/translate.html</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
 </urlset>
