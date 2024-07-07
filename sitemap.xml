@@ -11,6 +11,41 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://plainlicense.org/helping/index.html</loc>
+         <lastmod>2024-07-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://plainlicense.org/helping/code.html</loc>
+         <lastmod>2024-07-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://plainlicense.org/helping/crafting.html</loc>
+         <lastmod>2024-07-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://plainlicense.org/helping/donate.html</loc>
+         <lastmod>2024-07-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://plainlicense.org/helping/legalreview.html</loc>
+         <lastmod>2024-07-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://plainlicense.org/helping/translate.html</loc>
+         <lastmod>2024-07-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://plainlicense.org/licenses/index.html</loc>
+         <lastmod>2024-07-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://plainlicense.org/licenses/copyleft/index.html</loc>
          <lastmod>2024-07-07</lastmod>
          <changefreq>daily</changefreq>
@@ -82,31 +117,6 @@
     </url>
     <url>
          <loc>https://plainlicense.org/our-mission/faq.html</loc>
-         <lastmod>2024-07-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://plainlicense.org/our-mission/how-to-help/index.html</loc>
-         <lastmod>2024-07-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://plainlicense.org/our-mission/how-to-help/code.html</loc>
-         <lastmod>2024-07-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://plainlicense.org/our-mission/how-to-help/edit.html</loc>
-         <lastmod>2024-07-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://plainlicense.org/our-mission/how-to-help/legalreview.html</loc>
-         <lastmod>2024-07-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://plainlicense.org/our-mission/how-to-help/translate.html</loc>
          <lastmod>2024-07-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
