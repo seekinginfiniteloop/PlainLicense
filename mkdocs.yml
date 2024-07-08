@@ -1,4 +1,4 @@
-site_name: PlainLicense
+site_name: Plain License
 site_url: https://plainlicense.org
 repo_url: https://github.com/seekinginfiniteloop/PlainLicense
 repo_name: PlainLicense
@@ -7,156 +7,26 @@ copyright: Plain License and its creators dedicate all original content to the p
 site_description: At Plain License, we simplify legal writing to remove the confusion of "legalese" that blocks innovation and creativity. Our mission is to provide clear, easy-to-understand license terms. We offer plain versions of popular licenses like the MIT License, the Apache License, and the GPL. We also create new, simple licenses that anyone can use.
 nav:
   - Home: index.md
-  - Our Mission:
-      - our-mission/index.md
-      - FAQ: our-mission/faq.md
-  - Plain Licenses:
-      - licenses/index.md
-      - Copyleft Licenses:
-          - licenses/copyleft/index.md
-      - Permissive Licenses:
-          - licenses/permissive/index.md
-      - Public Domain:
-          - licenses/public-domain/index.md
-          - Plain Unlicense: licenses/public-domain/PlainUnlicense.md
-  - Help Us:
-      - helping/index.md
-      - Coding: helping/code.md
-      - Donate: helping/donate.md
-      - Simple Crafting: helping/crafting.md
-      - Legal Review: helping/legal.md
-      - Translate: helping/translate.md
-  - Blog: blog/index.md
 theme:
   name: material
   custom_dir: docs/overrides
-  logo: images/logo/vector/icon_only.svg
-  favicon: images/logo/vector/monochrome_icon.svg
+  favicon: images/logo.jpg
   font:
-    text: Noto Sans
+    text: Raleway
     code: Noto Sans Mono
-  features:
-    - content.action.edit
-    - content.code.annotate
-    - content.code.copy
-    - content.code.select
-    - content.footnote.tooltips
-    - navigation.footer
-    - navigation.indexes
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
-    - navigation.path
-    - navigation.sections
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.top
-    - navigation.tracking
-    - search.highlight
-    - search.share
-    - search.suggest
-    - toc.follow
   language: en
-  icon:
-    repo: fontawesome/brands/github
-    edit: material/pencil
-    view: material/eye
-
   palette:
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      primary: custom
-      scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: custom
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
+    scheme: slate
 
 plugins:
-  - blog
-  - offline
-  - search:
-      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   - social:
       cards_layout_options:
         font_family: Raleway
-        background_color: "#1AB5E6"
+        background_color: "#0D19A3"
         color: "#FFFFFF"
-  - tags
-  - privacy
-  - git-revision-date-localized:
-      enable_creation_date: true
-      fallback_to_build_date: true
-      type: date
-  - git-authors
 
-markdown_extensions:
-  - abbr
-  - attr_list
-  - footnotes
-  - markdown.extensions.meta
-  - md_in_html
-  - pymdownx.blocks.admonition
-  - pymdownx.blocks.definition
-  - pymdownx.blocks.details
-  - pymdownx.blocks.html
-  - pymdownx.blocks.tab:
-      alternate_style: true
-      slugify: !!python/object/apply:pymdownx.slugs.slugify
-        kwds:
-          case: lower
-          percent_encode: true
-          combine_header_slug: true
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - pymdownx.highlight:
-      default_lang: markdown
-      guess_lang: true
-      line_spans: __span
-      use_pygments: true
-  - pymdownx.betterem
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.inlinehilite
-  - pymdownx.keys:
-      separator: +
-      strict: false
-      camel_case: false
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.snippets
-  - pymdownx.saneheaders
-  - pymdownx.superfences
-  - pymdownx.tilde
-  - sane_lists
-  - tables
-  - toc:
-      toc_depth: 3
-      permalink_title: An anchor link you can use to share this section
-      permalink: true
-      slugify: !!python/object/apply:pymdownx.slugs.slugify
-        kwds:
-          case: "lower"
-          percent_encode: true
-
-extra_javascript:
-  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  - javascripts/tablesort.js
-
-extra:
-  alternate:
-    - name: English
-      link: /
-      lang: en
+extra_css:
+  - splash.css
 
 not_in_nav: |
-  /overrides/*
+  overrides/*
