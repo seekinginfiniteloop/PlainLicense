@@ -5,6 +5,7 @@ hide:
     - nav
     - toc
     - footer
+    - header
 ---
 
 # COMING SOON
