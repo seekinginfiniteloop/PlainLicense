@@ -1,0 +1,70 @@
+/* Plain License Custom Theme for Material for MkDocs */
+
+:root {
+    --md-primary-fg-color: #0D19A3;
+    --md-primary-fg-color--light: #15DB95;
+    --md-primary-fg-color--dark: #0A1282;
+    --md-accent-fg-color: #15DB95;
+    --md-typeset-a-color: #15DB95;
+    --md-text-font: "Raleway", sans-serif;
+    --md-code-font: "Roboto Mono", monospace;
+}
+
+/* Header styling */
+.md-header {
+    background-color: var(--md-primary-fg-color);
+}
+
+.md-header__title {
+    font-family: var(--md-text-font);
+    font-weight: 700;
+    /* Bold for 'Plain' */
+}
+
+.md-header__title .md-header__topic:last-child {
+    font-weight: 400;
+    /* Regular for 'License' */
+    color: #F4E4C1;
+}
+
+/* Link styling */
+.md-typeset a {
+    color: var(--md-accent-fg-color);
+}
+
+.md-typeset a:hover {
+    color: var(--md-accent-fg-color);
+    text-decoration: underline;
+}
+
+/* Button styling */
+.md-typeset .md-button {
+    background-color: var(--md-accent-fg-color);
+    color: var(--md-primary-fg-color);
+    border: none;
+}
+
+.md-typeset .md-button:hover {
+    background-color: var(--md-primary-fg-color);
+    color: var(--md-accent-fg-color);
+}
+
+/* Code block styling */
+.md-typeset code {
+    background-color: rgba(21, 219, 149, 0.1);
+    color: var(--md-primary-fg-color);
+}
+
+/* Sidebar styling */
+.md-nav__item .md-nav__link--active {
+    color: var(--md-accent-fg-color);
+}
+
+/* Footer styling */
+.md-footer {
+    background-color: var(--md-primary-fg-color);
+}
+
+.md-footer-meta {
+    background-color: var(--md-primary-fg-color--dark);
+}
