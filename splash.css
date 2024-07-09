@@ -6,4 +6,8 @@
     --md-primary-fg-color: #080F5B;
     --md-primary-fg-color--light: #E4C580;
     --md-primary-fg-color--dark: #0D19A3;
+    --md-header {
+        background-color: var(--md-primary-fg-color);
+        color: var(--md-primary-fg-color--light);
+    }
 }
