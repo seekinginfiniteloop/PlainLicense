@@ -6,7 +6,5 @@ hide:
     - toc
     - footer
     - header
+    - search
 ---
-# COMING SOON
-
-## Check back soon for more information on Plain License
