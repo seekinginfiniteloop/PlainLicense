@@ -3,7 +3,7 @@ site_url: https://plainlicense.org
 repo_url: https://github.com/seekinginfiniteloop/PlainLicense
 repo_name: PlainLicense
 edit_uri: edit/dev/docs/
-copyright: Plain License and its creators dedicate all original content to the public domain. **No rights reserved.**
+copyright: Plain License and its creators dedicate all original content to the public domain. No rights reserved.
 site_description: At Plain License, we simplify legal writing to remove the confusion of "legalese" that blocks innovation and creativity. Our mission is to provide clear, easy-to-understand license terms. We offer plain versions of popular licenses like the MIT License, the Apache License, and the GPL. We also create new, simple licenses that anyone can use.
 nav:
   - Home: index.md
@@ -16,14 +16,7 @@ theme:
     code: Noto Sans Mono
   language: en
   palette:
-    scheme: slate
-
-plugins:
-  - social:
-      cards_layout_options:
-        font_family: Raleway
-        background_color: "#0D19A3"
-        color: "#FFFFFF"
+    scheme: splash
 
 extra_css:
   - splash.css

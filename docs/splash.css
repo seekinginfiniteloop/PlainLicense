@@ -1,8 +1,6 @@
-:root {
+
+[data-md-color-scheme="splash"] {
     --md-primary-fg-color: #0D19A3;
-    --md-primary-bg-color: #0D19A3;
-    --md-accent-fg-color: #15DB95;
-    --md-accent-fg-color--transparent: #526cfe1a;
-    --md-accent-bg-color: #fff;
-    --md-accent-bg-color--light: #F4E4C1;
+    --md-primary-fg-color--light: #F4E4C1;
+    --md-primary-fg-color--dark: #080F5B;
 }

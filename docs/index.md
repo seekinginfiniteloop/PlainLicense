@@ -7,7 +7,6 @@ hide:
     - footer
     - header
 ---
-
 # COMING SOON
 
-## We're still getting our house in order
+## Check back soon for more information on Plain License
