@@ -16,8 +16,9 @@ theme:
     code: Noto Sans Mono
   language: en
   palette:
-    scheme: splash
-
+    scheme: slate
+    primary: custom
+    accent: custom
 extra_css:
   - splash.css
 

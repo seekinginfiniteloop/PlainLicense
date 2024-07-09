@@ -5,8 +5,8 @@ on:
     branches:
       - main
     paths:
-      - "docs/licenses/*"
-      - "docs/versions/*"
+      - "docs/*"
+      - "docs/**/*"
       - "mkdocs.yml"
       - ".github/workflows/deploy.yml"
   workflow_dispatch:
